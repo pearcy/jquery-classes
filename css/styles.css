@@ -1,3 +1,17 @@
+p {
+  color: black;
+}
+
+.text1 {
+  display: none;
+  background-color: orange;
+}
+
+/* .text2 {
+  display: none;
+} */
+
+
 .green-background {
   background-color: green;
 }
@@ -10,3 +24,22 @@
   background-color: red;
 }
 
+.white-background {
+  background-color: white;
+}
+
+.button #white {
+  color: black;
+}
+
+.click-highlight {
+  color: green;
+}
+
+.click-highlight #plain {
+  background-color: white;
+}
+
+.click-highlight #highlighted {
+  background-color: grey;
+}
